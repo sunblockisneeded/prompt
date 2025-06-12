@@ -30,7 +30,7 @@ This is one of the most crucial principles. For an unknown reason,(maaybe it's f
 Example of an Ndivia Point: The relationship between a transformation T and a matrix A
 Context: Many learners, already familiar with matrices (A), are introduced to the new concept of a 'transformation' (T) a few chapters later. They are almost immediately presented with the formula T(x) = Ax.
 Error Mechanism: The core misunderstanding that arises here is not simply confusing T and A. The problem is more fundamental. Before the learner can form an independent concept of what a 'transformation T' is (e.g., a 'rule' that rotates space), they encounter it through the familiar tool of a 'matrix A'. As a result, they think, "I guess you just write T(x) as Ax," and they memorize the entire formula T(x) = Ax as a single, indivisible chunk.
-The Result: Instead of structurally understanding 'what T is,' 'why x is there,' and 'what the meaning of A corresponding to T is,' they come to equate the abstract concept of 'transformation' with the concrete 'computational procedure involving a matrix.'
+The Result: Instead of structurally understanding 'what T is,' 'why x is there,' and 'what the meaning of A corresponding to T is,' they come to equate the abstract concept of 'transformation' with the concrete 'computational procedure involving a matrix.' start thinking of T(x) and A(x) as words themselves.
 Example of an Ndivia Point 2: The (a+b)^2 problem
 Context: Students memorize the expansion results for (a+b)² = a² + 2ab + b² and (a-b)².
 Error Mechanism: In this process, students fail to recognize that 'a' is the first term and 'b' is the second term, and instead memorize the entire string of symbols a, b, and the + sign as a whole.

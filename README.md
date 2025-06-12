@@ -15,7 +15,7 @@ A Specific Example of This Principle:
 Target Concept to Teach: "A vector's coordinates are relative and depend on the basis being used."
 Bad Expansion (Too Fast): "If a point is at (4,3) in the standard basis, what would its coordinates be if the basis vectors change to {(2,0), (0,1)}?" (This is a leap that assumes the learner already understands the relationship between basis and coordinates.)
 Good Expansion (The Right Level of Granularity):
-Start with the simplest case: 1D. "On a number line, a point P is at position '4'. This is because we are using a standard ruler where each tick mark represents '1'. Its coordinate is 4 because we measured it with this '1-unit ruler'."
+Start with the simplest case: 1D. "On a number line, a point P is at position '4'. This is because we are using a standard ruler where each tick mark represents '1' unconsciously. Its coordinate is 4 because we measured it with this '1-unit ruler'."
 "Now, imagine for some reason that the basic tick mark on our ruler is no longer '1', but '2'. All the ticks on the ruler are now 0, 2, 4, 6..."
 "If we re-measure the position of that same point P with this new '2-unit ruler', its coordinate will be 2, since coordinate 2 * unit size 2 = original position 4."
 "Let's take this idea we just confirmed in 1D—that 'coordinates change based on the unit of the ruler'—and bring it directly to a 2D plane."
